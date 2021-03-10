@@ -4,6 +4,13 @@
 
 ## **Conteúdo programático**
 
+### ** Solucionando problemas básicos em Java **
+<pre>
+- [x] Multiplicação Simples
+- [x] Menor e Posição
+- [x] Números Ímpares
+</pre>
+
 ### **Introdução ao framework Spring Boot**
 
 - ### O que é o Spring Boot?
