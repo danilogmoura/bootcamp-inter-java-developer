@@ -18,6 +18,6 @@
 - [x] Importância dos Profiles
 - [x] Configurações com Properties
 - [x] Configurações com YAML e command line
-- [ ] Configurações com variáveis de ambiente
+- [x] Configurações com variáveis de ambiente
 
 </pre>
