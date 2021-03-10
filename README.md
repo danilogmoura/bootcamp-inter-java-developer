@@ -8,9 +8,9 @@
 
 - ### O que é o Spring Boot?
 <pre>
-- [ ] O que é e quais problemas resolvem o Spring Boot?
-- [ ] Auto Configuration
-- [ ] FatJar/ UberJar
+- [x] O que é e quais problemas resolvem o Spring Boot?
+- [x] Auto Configuration
+- [x] FatJar/ UberJar
 </pre>
 
 - ### Trabalhando com Profiles e Configurações
