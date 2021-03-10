@@ -15,8 +15,8 @@
 
 - ### Trabalhando com Profiles e Configurações
 <pre>
-- [ ] Importância dos Profiles
-- [ ] Configurações com Properties
+- [x] Importância dos Profiles
+- [x] Configurações com Properties
 - [ ] Configurações com YAML e command line
 - [ ] Configurações com variáveis de ambiente
 
