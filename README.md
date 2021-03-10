@@ -17,7 +17,7 @@
 <pre>
 - [x] Importância dos Profiles
 - [x] Configurações com Properties
-- [ ] Configurações com YAML e command line
+- [x] Configurações com YAML e command line
 - [ ] Configurações com variáveis de ambiente
 
 </pre>
