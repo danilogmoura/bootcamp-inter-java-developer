@@ -16,14 +16,14 @@
 - ### Paradigma Funcional no Java
 <pre>
 - [x] Entenda o que é Paradigma Funcional
-- [ ] Funções e imutabilidade em Paradigma Funcional
-- [ ] Lambda no Java
-- [ ] Recursividade em Java
+- [x] Funções e imutabilidade em Paradigma Funcional
+- [x] Lambda no Java
+- [x] Recursividade em Java
 </pre>
 
 - ### Interfaces funcionais
 <pre>
-- [ ] Facilitando o código da API
+- [x] Facilitando o código da API
 - [ ] Funções de alta ordem
 - [ ] Aprenda sobre parâmetro da função
 - [ ] Iterações entre as funções
