@@ -40,8 +40,8 @@
 
 - ### Por dentro da modularização do Java
 <pre>
-- [ ] Entendendo o que é a modularização por meio do Jigsaw
-- [ ] Iniciando um projeto com Java Modular
+- [x] Entendendo o que é a modularização por meio do Jigsaw
+- [x] Iniciando um projeto com Java Modular
 </pre>
 
 - ### Novidades do Java 10
