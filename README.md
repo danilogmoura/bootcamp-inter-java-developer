@@ -44,20 +44,6 @@
 - [x] Iniciando um projeto com Java Modular
 </pre>
 
-- ### Novidades do Java 10
-<pre>
-- [ ] Aplicando os novos releases da linguagem na prática I
-- [ ] Aplicando os novos releases da linguagem na prática II
-- [ ] Aplicando os novos releases da linguagem na prática III
-</pre>
-
-- ### Novidades do Java 11
-<pre>
-- [ ] O que mudou no Java 11
-- [ ] Aplicando no código as novas features - Parte I
-- [ ] Aplicando no código as novas features - Parte II
-</pre>
-
 ### **Introdução ao framework Spring Boot**
 
 - ### O que é o Spring Boot?
