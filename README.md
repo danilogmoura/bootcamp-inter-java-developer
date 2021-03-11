@@ -32,10 +32,10 @@
 
 - ### Processamento Assíncrono e Paralelo
 <pre>
-- [ ] O que síncrono e assíncrono
-- [ ] Desenvolvendo uma API de Threads do Java
-- [ ] Execução da API do Java 8
-- [ ] Utilizando o Parallel Streams
+- [x] O que síncrono e assíncrono
+- [x] Desenvolvendo uma API de Threads do Java
+- [x] Execução da API do Java 8
+- [x] Utilizando o Parallel Streams
 </pre>
 
 - ### Por dentro da modularização do Java
