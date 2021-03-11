@@ -44,6 +44,15 @@
 - [x] Iniciando um projeto com Java Modular
 </pre>
 
+### **Praticando programação em Java**
+<pre>
+- [ ] Abreviando posts do blog
+- [ ] Conjuntos bons ou ruins?
+- [ ] Encontre a maior substring
+- [ ] Entrevista embaraçosa
+- [ ] Validador de senhas com requisitos
+</pre>
+
 ### **Introdução ao framework Spring Boot**
 
 - ### O que é o Spring Boot?
