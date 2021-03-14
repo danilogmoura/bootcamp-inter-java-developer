@@ -50,7 +50,7 @@
 - [ ] Conjuntos bons ou ruins?
 - [ ] Encontre a maior substring
 - [ ] Entrevista embaraçosa
-- [ ] Validador de senhas com requisitos
+- [x] Validador de senhas com requisitos
 </pre>
 
 ### **Introdução ao framework Spring Boot**
