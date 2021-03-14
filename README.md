@@ -46,7 +46,7 @@
 
 ### **Praticando programação em Java**
 <pre>
-- [ ] Abreviando posts do blog
+- [x] Abreviando posts do blog
 - [ ] Conjuntos bons ou ruins?
 - [ ] Encontre a maior substring
 - [ ] Entrevista embaraçosa
