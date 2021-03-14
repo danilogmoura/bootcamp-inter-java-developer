@@ -47,7 +47,7 @@
 ### **Praticando programação em Java**
 <pre>
 - [x] Abreviando posts do blog
-- [ ] Conjuntos bons ou ruins?
+- [x] Conjuntos bons ou ruins?
 - [ ] Encontre a maior substring
 - [ ] Entrevista embaraçosa
 - [x] Validador de senhas com requisitos
