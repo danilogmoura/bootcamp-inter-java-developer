@@ -56,7 +56,7 @@
 ### **Desafios Aritméticos em Java**
 <pre>
 - [x] Divisores
-- [ ] Análise de Números
+- [x] Análise de Números
 - [ ] Contagem repetida de números
 </pre>
 
