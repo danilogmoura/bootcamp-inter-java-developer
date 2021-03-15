@@ -3,6 +3,8 @@ package com.dgm.dio;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * Desafio
@@ -26,26 +28,27 @@ public class EntrevistaEmbaracosa {
 
 
     public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
 
-        String palavra;
-        while ((palavra = br.readLine()) != null) {
-            int size = palavra.length();
+            String palavra;
+            while ((palavra = br.readLine()) != null) {
 
-            String tempPalavraFora = "";
-            for (int i = 0, l = palavra.length() - 1; i < palavra.length(); i++, l--) {
-                tempPalavraFora = tempPalavraFora + new StringBuilder(palavra).reverse().charAt(i);
+                List<String> subStrings = new ArrayList<>();
 
-                String tempPalavraInterna = "";
-                for (int j = palavra.length() - 1 - tempPalavraFora.length(), k = 0; j >= 0 && k <= i; k++, j--) {
-                    tempPalavraInterna = tempPalavraInterna + palavra.charAt(j);
+                boolean temSubString = false;
+                for (int i = 1; i <= palavra.length() / 2; i++) {
+                    if (palavra.substring(palavra.length() - i * 2, palavra.length() - i).equals(palavra.substring(palavra.length() - i))) {
+                        subStrings.add(palavra.substring(0, palavra.length() - i));
+                        temSubString = true;
+                    }
                 }
 
-                if (tempPalavraFora.equals(tempPalavraInterna)) {
-                    size = l;
+                if (temSubString) {
+                    subStrings.stream().sorted().forEach(System.out::println);
+                } else {
+                    System.out.println(palavra);
                 }
             }
-            System.out.println(palavra.substring(0, size));
         }
     }
 }
