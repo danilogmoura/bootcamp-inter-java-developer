@@ -57,7 +57,7 @@
 <pre>
 - [x] Divisores
 - [x] Análise de Números
-- [ ] Contagem repetida de números
+- [x] Contagem repetida de números
 </pre>
 
 ### **Introdução ao framework Spring Boot**
