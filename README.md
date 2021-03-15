@@ -53,6 +53,13 @@
 - [x] Validador de senhas com requisitos
 </pre>
 
+### **Desafios Aritméticos em Java**
+<pre>
+- [x] Divisores
+- [ ] Análise de Números
+- [ ] Contagem repetida de números
+</pre>
+
 ### **Introdução ao framework Spring Boot**
 
 - ### O que é o Spring Boot?
