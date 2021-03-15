@@ -48,7 +48,7 @@
 <pre>
 - [x] Abreviando posts do blog
 - [x] Conjuntos bons ou ruins?
-- [ ] Encontre a maior substring
+- [x] Encontre a maior substring
 - [x] Entrevista embaraçosa
 - [x] Validador de senhas com requisitos
 </pre>
