@@ -87,12 +87,12 @@
 - ### Explorando Mocks e Asserts
 <pre>
 - [x] Trabalhando com Mocks
-- [ ] O que é e como usar Asserts
-- [ ] Hamcrest e Matcher
+- [x] O que é e como usar Asserts
+- [x] Hamcrest e Matcher
 </pre>
 
 - ### TDD e Testes Unitários com JUnit 5
 <pre>
-- [ ] O que é TDD e seus benefícios
-- [ ] Novidades do JUnit 5
+- [x] O que é TDD e seus benefícios
+- [x] Novidades do JUnit 5
 </pre>
