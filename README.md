@@ -86,7 +86,7 @@
 
 - ### Explorando Mocks e Asserts
 <pre>
-- [ ] Trabalhando com Mocks
+- [x] Trabalhando com Mocks
 - [ ] O que é e como usar Asserts
 - [ ] Hamcrest e Matcher
 </pre>
