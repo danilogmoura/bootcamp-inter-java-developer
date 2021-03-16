@@ -76,3 +76,23 @@
 - [x] Configurações com YAML e command line
 - [x] Configurações com variáveis de ambiente
 </pre>
+
+### **Aprenda a aplicar testes com Java**
+
+- ### Testes Unitários com JUnit 4
+<pre>
+- [x] Conheça o framework para testar e organizar códigos
+</pre>
+
+- ### Explorando Mocks e Asserts
+<pre>
+- [ ] Trabalhando com Mocks
+- [ ] O que é e como usar Asserts
+- [ ] Hamcrest e Matcher
+</pre>
+
+- ### TDD e Testes Unitários com JUnit 5
+<pre>
+- [ ] O que é TDD e seus benefícios
+- [ ] Novidades do JUnit 5
+</pre>
